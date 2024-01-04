@@ -1,0 +1,114 @@
+[
+  {
+    "keyword": "ok",
+    "is_positive": false,
+    "is_negative": false,
+    "is_neutral": true,
+    "emphasis": 0
+  },
+  {
+    "keyword": "perfect",
+    "is_positive": true,
+    "is_negative": false,
+    "is_neutral": false,
+    "emphasis": 3
+  },
+  {
+    "keyword": "amazing",
+    "is_positive": true,
+    "is_negative": false,
+    "is_neutral": false,
+    "emphasis": 3
+  },
+  {
+    "keyword": "disgusting",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 3
+  },
+  {
+    "keyword": "busy",
+    "is_positive": false,
+    "is_negative": false,
+    "is_neutral": true,
+    "emphasis": 0
+  },
+  {
+    "keyword": "soggy",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 1
+  },
+  {
+    "keyword": "best",
+    "is_positive": true,
+    "is_negative": false,
+    "is_neutral": false,
+    "emphasis": 3
+  },
+  {
+    "keyword": "neat",
+    "is_positive": true,
+    "is_negative": false,
+    "is_neutral": false,
+    "emphasis": 1
+  },
+  {
+    "keyword": "fantastic",
+    "is_positive": true,
+    "is_negative": false,
+    "is_neutral": false,
+    "emphasis": 3
+  },
+  {
+    "keyword": "expensive",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 2
+  },
+  {
+    "keyword": "good",
+    "is_positive": true,
+    "is_negative": false,
+    "is_neutral": false,
+    "emphasis": 1
+  },
+  {
+    "keyword": "small",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 1
+  },
+  {
+    "keyword": "bad",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 2
+  },
+  {
+    "keyword": "worst",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 3
+  },
+  {
+    "keyword": "rude",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 2
+  },
+  {
+    "keyword": "horrible",
+    "is_positive": false,
+    "is_negative": true,
+    "is_neutral": false,
+    "emphasis": 3
+  }
+]

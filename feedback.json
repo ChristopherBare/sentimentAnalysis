@@ -1,0 +1,72 @@
+[
+  {
+    "first_name": "Mattie",
+    "last_name": "Measham",
+    "date": "4/23/2022",
+    "email": "mmeasham0@youtube.com",
+    "comment": "The burgers are OK, but the shakes are AMAZING!"
+  },
+  {
+    "first_name": "Hugh",
+    "last_name": "Downham",
+    "date": "7/6/2021",
+    "email": "hdownham1@unc.edu",
+    "comment": "Been going here for a long time. The food is generally OK. James the server was very rude, but when we had issues management was able to make it OK."
+  },
+  {
+    "first_name": "Geri",
+    "last_name": "Jenik",
+    "date": "2/16/2022",
+    "email": "gjenik2@reuters.com",
+    "comment": "Amazing!"
+  },
+  {
+    "first_name": "Keefe",
+    "last_name": "Terrill",
+    "date": "3/31/2022",
+    "email": "kterrill3@fda.gov",
+    "comment": "This is the best restaurant in town."
+  },
+  {
+    "first_name": "Nady",
+    "last_name": "Admans",
+    "date": "10/7/2021",
+    "email": "nadmans4@mac.com",
+    "comment": "We had a horrible experience here. Bad service, hair in the food, and expensive!"
+  },
+  {
+    "first_name": "Marilyn",
+    "last_name": "Kingscote",
+    "date": "3/26/2022",
+    "email": "mkingscote5@gnu.org",
+    "comment": "Just OK"
+  },
+  {
+    "first_name": "Rea",
+    "last_mane": "Garretts",
+    "date": "2/26/2022",
+    "email": "rgarretts6@cnet.com",
+    "comment": "The double cheeseburger is fantastic, but they need to find something different to wrap the burgers in because they can get soggy."
+  },
+  {
+    "first_name": "Ryun",
+    "last_name": "Auton",
+    "date": "2/11/2022",
+    "email": "rauton7@usda.gov",
+    "comment": "Parking lot is a bit too small and they can get pretty busy. The food is good though."
+  },
+  {
+    "first_name": "Shelley",
+    "last_name": "Damp",
+    "date": "10/16/2021",
+    "email": "sdamp8@soundcloud.com",
+    "comment": "I went here with my cousins 3 months ago. My cousin from Florida thought that they might have copied some items from Jane's Burgers in Miami. I think the decor is neat."
+  },
+  {
+    "first_name": "Kirby",
+    "last_name": "Camier",
+    "date": "11/4/2021",
+    "email": "kcamier9@ed.gov",
+    "comment": "When are they going to offer jalapenos a la carte?"
+  }
+]
